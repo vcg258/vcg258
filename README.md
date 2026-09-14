@@ -4,8 +4,8 @@ Backend Developer · Java / Spring Boot
 ---
 
 `Java` `Spring Boot` `Spring Data JPA` `Spring Security` `Spring Batch` `Spring AI`
-`MariaDB` `PostgreSQL` `pgvector`
-`Thymeleaf` `React` `JavaScript`
+`MariaDB` `PostgreSQL` `pgvector` `Redis`
+`Thymeleaf` `JavaScript`
 
 ---
 
