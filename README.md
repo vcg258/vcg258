@@ -6,7 +6,7 @@ Backend Developer · Java / Spring Boot
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
----
+<!-- --- -->
 
 `Java` `Spring Boot` `Spring Data JPA` `Spring Security` `Spring Batch` `Spring AI`
 `MariaDB` `PostgreSQL` `pgvector` `Redis`
