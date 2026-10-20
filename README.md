@@ -3,8 +3,8 @@ Backend Developer · Java / Spring Boot
 
 ---
 
-<!-- START_SECTION:waka -->
-<!-- END_SECTION:waka -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!-- --- -->
 
