@@ -6,11 +6,11 @@ Backend Developer · Java / Spring Boot
 <!--START_SECTION:waka-->
 
 ```txt
-Java              4 hrs 21 mins         ███████████████░░░░░░░░░░   59.46 %
-Markdown          1 hr 2 mins           ███▓░░░░░░░░░░░░░░░░░░░░░   14.25 %
-Python            49 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.31 %
-Java Properties   14 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
-.env file         11 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+Java              5 hrs 45 mins         ██████████████▓░░░░░░░░░░   58.46 %
+Markdown          1 hr 21 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.80 %
+Python            49 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
+YAML              30 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
+Java Properties   14 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
 ```
 
 <!--END_SECTION:waka-->
