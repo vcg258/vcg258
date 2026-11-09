@@ -14,46 +14,45 @@ Backend Developer · Java / Spring Boot
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     3 hrs 50 mins       █████████████░░░░░░░░░░░░   51.86 % 
-Markdown                 1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
-CSS                      52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-Bash                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-Python                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Markdown                 1 hr                ███████░░░░░░░░░░░░░░░░░░   26.12 % 
+CSS                      52 mins             ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
+Java                     41 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
+Bash                     28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+Python                   14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 54 mins       █████████████░░░░░░░░░░░░   52.95 % 
-IntelliJ IDEA            3 hrs 28 mins       ████████████░░░░░░░░░░░░░   47.05 % 
-PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude Code              2 hrs 51 mins       ███████████████████░░░░░░   74.32 % 
+IntelliJ IDEA            59 mins             ██████░░░░░░░░░░░░░░░░░░░   25.67 % 
+PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  7 hrs 23 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 4 mins (68.63%)
+⏱ AI Coding Time: 3 hrs 16 mins (84.87%)
 
-✍️ 1,400 lines written by AI, 196 lines written by hand (87.72% AI-written)
+✍️ 1,123 lines written by AI, 6 lines written by hand (99.47% AI-written)
 
-🔤 2,087,968 Input Tokens, 415,110 Output Tokens
+🔤 941,825 Input Tokens, 269,795 Output Tokens
 
-💵 $37.45 Estimated AI Cost This Week
+💵 $27.29 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 86 AI Prompts
+🧠 3 AI Sessions, 54 AI Prompts
 
-Sonnet                   1,383 lines         ████████████████████████░   97.46 % 
-Opus                     36 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+Sonnet                   1,137 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 87.72% of written lines came from AI
-📝 Concise Prompter — average 274 characters per prompt
-🔁 Iterative Prompter — average 17 prompts per session
-🚀 High AI Trust — 14.16% of changed lines were hand-edited
+🤖 AI-Driven — 99.47% of written lines came from AI
+📝 Concise Prompter — average 85 characters per prompt
+🔁 Iterative Prompter — average 18 prompts per session
+🚀 High AI Trust — 0.61% of changed lines were hand-edited
 ```
 
 
- Last Updated on 08/11/2026 03:03:51 UTC
+ Last Updated on 09/11/2026 03:26:32 UTC
 <!--END_SECTION:waka-->
 
 <!-- --- -->
