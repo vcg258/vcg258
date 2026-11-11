@@ -14,45 +14,45 @@ Backend Developer · Java / Spring Boot
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 1 hr                ███████░░░░░░░░░░░░░░░░░░   26.12 % 
-CSS                      52 mins             ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
-Java                     41 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
-Bash                     28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-Python                   14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+CSS                      52 mins             ████████░░░░░░░░░░░░░░░░░   30.28 % 
+Java                     30 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
+Bash                     28 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+Markdown                 26 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+Python                   14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 51 mins       ███████████████████░░░░░░   74.32 % 
-IntelliJ IDEA            59 mins             ██████░░░░░░░░░░░░░░░░░░░   25.67 % 
+Claude Code              2 hrs 11 mins       ███████████████████░░░░░░   76.58 % 
+IntelliJ IDEA            40 mins             ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
 PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  3 hrs 51 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 16 mins (84.87%)
+⏱ AI Coding Time: 2 hrs 32 mins (88.43%)
 
-✍️ 1,123 lines written by AI, 6 lines written by hand (99.47% AI-written)
+✍️ 836 lines written by AI, 5 lines written by hand (99.41% AI-written)
 
-🔤 941,825 Input Tokens, 269,795 Output Tokens
+🔤 627,961 Input Tokens, 192,490 Output Tokens
 
-💵 $27.29 Estimated AI Cost This Week
+💵 $23.34 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 54 AI Prompts
+🧠 2 AI Sessions, 40 AI Prompts
 
-Sonnet                   1,137 lines         █████████████████████████   100.00 % 
+Sonnet                   836 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.47% of written lines came from AI
-📝 Concise Prompter — average 85 characters per prompt
-🔁 Iterative Prompter — average 18 prompts per session
-🚀 High AI Trust — 0.61% of changed lines were hand-edited
+🤖 AI-Driven — 99.41% of written lines came from AI
+📝 Concise Prompter — average 88 characters per prompt
+🔁 Iterative Prompter — average 20 prompts per session
+🚀 High AI Trust — 0.71% of changed lines were hand-edited
 ```
 
 
- Last Updated on 10/11/2026 05:00:23 UTC
+ Last Updated on 11/11/2026 03:33:47 UTC
 <!--END_SECTION:waka-->
 
 <!-- --- -->
