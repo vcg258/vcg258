@@ -4,9 +4,9 @@ Backend Developer · Java / Spring Boot
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%2034%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-17%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-18%20hrs%2027%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -14,46 +14,42 @@ Backend Developer · Java / Spring Boot
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-CSS                      56 mins             ███████░░░░░░░░░░░░░░░░░░   26.66 % 
-Python                   50 mins             ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
-Java                     30 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-Bash                     28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-Markdown                 26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+Python                   35 mins             ██████████████████████░░░   88.89 % 
+CSS                      4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 42 mins       ███████████████████░░░░░░   76.76 % 
-IntelliJ IDEA            40 mins             █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
-PyCharm                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+Claude Code              31 mins             ███████████████████░░░░░░   77.54 % 
+PyCharm                  8 mins              ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
 
 💻 Operating System: 
-Windows                  3 hrs 32 mins       █████████████████████████   100.00 % 
+Windows                  40 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 5 mins (87.17%)
+⏱ AI Coding Time: 32 mins (81.74%)
 
-✍️ 996 lines written by AI, 5 lines written by hand (99.5% AI-written)
+✍️ 160 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,122,771 Input Tokens, 228,164 Output Tokens
+🔤 1,494,810 Input Tokens, 35,674 Output Tokens
 
-💵 $30.96 Estimated AI Cost This Week
+💵 $7.62 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 45 AI Prompts
+🧠 2 AI Sessions, 5 AI Prompts
 
-Sonnet                   861 lines           ██████████████████████░░░   86.45 % 
-Opus                     135 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Opus                     135 lines           █████████████████████░░░░   84.38 % 
+Sonnet                   25 lines            ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.5% of written lines came from AI
-📝 Concise Prompter — average 88 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 0.6% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 83 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 12/11/2026 04:42:49 UTC
+ Last Updated on 13/11/2026 03:54:53 UTC
 <!--END_SECTION:waka-->
 
 <!-- --- -->
