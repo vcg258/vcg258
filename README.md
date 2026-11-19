@@ -14,42 +14,23 @@ Backend Developer · Java / Spring Boot
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   35 mins             ██████████████████████░░░   88.89 % 
-CSS                      4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              31 mins             ███████████████████░░░░░░   77.54 % 
-PyCharm                  8 mins              ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  40 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 mins (81.74%)
-
-✍️ 160 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 1,494,810 Input Tokens, 35,674 Output Tokens
-
-💵 $7.62 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 5 AI Prompts
-
-Opus                     135 lines           █████████████████████░░░░   84.38 % 
-Sonnet                   25 lines            ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 83 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 18/11/2026 04:57:32 UTC
+ Last Updated on 19/11/2026 04:51:41 UTC
 <!--END_SECTION:waka-->
 
 <!-- --- -->
